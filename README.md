@@ -10,7 +10,7 @@ So first, some packaging.
 
 Packaging is about more than just the boxes things come in; and its about more than putting pretty labels on things.
 
-You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logisitcs: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this; etc. Woah.
+You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this; etc. Woah.
 
 ## This makes packaging design a complex, multi-faceted enterprise.
 
@@ -72,7 +72,7 @@ What about the logitech stuff?
 
 Packaging can be a bridge or a barrier to consumers
 
-Packaging is a barrier ... a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamute of protection issues, information issues, and commercial issues...
+Packaging is a barrier ... a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
 
 If the externalities change, so must the packaging.
 
@@ -90,7 +90,7 @@ Form, content, context???
 
 Packging is the backbone of today's free market system
 
-Packaging Design is a complex balance of economy and ecology; between user and producer; bewteen profit and benefit; between promise and expectation...
+Packaging Design is a complex balance of economy and ecology; between user and producer; between profit and benefit; between promise and expectation...
 
 Everything is connected
 
@@ -108,15 +108,21 @@ We've gotten to a lot of packaging related thoughts; and hit on this systems thi
 
 ## Is a package even necessary?
 
-Don't forget to ask the real important quesion -- do we even need to do this project?
+Don't forget to ask the real important question -- do we even need to do this project?
 
 ## Biomicmry?
 
 So, if a package is supposed to protect, inform, and sell -- does nature do this already with its items? Take a banana: a banana comes packed in large bundles. Each is individually wrapped/protected. They are all signs for themselves -- a banana through color and shape tells you what it is; and the package is usually frustration free; its then fully a biological nutrient afterward... waste = food...
 
+banana:
+
+- <https://www.flickr.com/photos/floridamemory/7629968464/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14752912914/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14784251202/>
+
 Any other examples like that???
 
-\\
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
 Basic Packaging?
 
@@ -124,10 +130,15 @@ Basic Sustainability?
 
 What else?
 
-\\
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
 Image list:
 
+- <https://www.flickr.com/photos/internetarchivebookimages/14598528297/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14761801986/>
+- <https://www.flickr.com/photos/twm_news/16506034980/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14753006331/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14782936312/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14780530101/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14770546081/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14586293129/>
@@ -136,7 +147,42 @@ Image list:
 - <https://www.flickr.com/photos/internetarchivebookimages/14771357474/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14577629817/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14743438376/>
+- <https://www.flickr.com/photos/library-company-of-philadelphia/9734784747/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14577751919/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14577323969/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14597150879/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14785864183/>
+- <https://www.flickr.com/photos/floridamemory/10724664444/>
+- <https://www.flickr.com/photos/national_archives_of_norway/6109544617/>
+- <https://www.flickr.com/photos/osucommons/6355365309/>
+- <https://www.flickr.com/photos/nypl/3109784491/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14776311673/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14580075680/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14596913918/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14566350417/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14793191143/>
+- <https://www.flickr.com/photos/britishlibrary/10999605834/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14566201269/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14780811211/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14598116788/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14784173003/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14577419040/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14596667980/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14596890279/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14803261433/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14597343818/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14597170107/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14784993825/>
 
 Color Palette:
 
 - <https://codepen.io/bjornmeansbear/pen/yMqYxe?editors=0100>
+
+Fonts:
+
+- League Gothic: <https://www.theleagueofmoveabletype.com/league-gothic> (SIL Open Font License)
+- Gentium: <https://software.sil.org/gentium/> (SIL Open Font License)
+- Yatra: <https://github.com/cathschmidt/yatra-one> (SIL Open Font License)
+- Libre Franklin: <https://github.com/impallari/Libre-Franklin> (SIL Open Font License)
+- Work Sans: <http://weiweihuanghuang.github.io/Work-Sans/> / <https://github.com/weiweihuanghuang/Work-Sans> (SIL Open Font License)
+- OFL: <https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl>
