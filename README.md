@@ -18,7 +18,7 @@ Yes, You have to think about the Aesthetics and Style, sure. But you also have t
 
 It's a lot! It helps to try and take a "systems" approach to this. Here is what I mean by systems thinking:
 
-The short of it is that you must Try to see all the potential bits and pieces of a project at the outset and then design accordingly. That's systems -- understanding that everything is connected. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
+The short of it is that you must Try to see all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
 
 ## venn diagram
 
