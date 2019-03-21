@@ -4,23 +4,25 @@ Slides and a script for a presentation on Packaging and sustainability
 
 ## Slide 1
 
-This is a general introduction to package design, and a little sustainability (generally; and how to apply them to your designing).
+This is a general introduction to package design, and a little sustainability (and how to apply them to your designing). I'll be speaking pretty generally. We will do an overview of some good packaging related things to think about; and then end on some more sustainability focused ideas -- but still with packaging design as sort of our focus.
 
 So first, some packaging.
 
-Packaging is about more than just the boxes things come in; and its about more than putting pretty labels on things.
+Packaging is about more than just the boxes things come in
 
-You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this; etc. Woah.
+and Packaging is about more than putting pretty labels on things.
+
+Yes, You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this; etc. Woah.
 
 ## This makes packaging design a complex, multi-faceted enterprise.
 
-So; it's a lot! It helps to try and take a "systems" approach to this. The systems thinking stuff is gonna come back; I promise.
+It's a lot! It helps to try and take a "systems" approach to this. Here is what I mean by systems thinking:
 
 The short of it is that you must Try to see all the potential bits and pieces of a project at the outset and then design accordingly. That's systems -- understanding that everything is connected. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
 
 ## venn diagram
 
-If you're trying to grasp this; here's a venn diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
+If you're trying to grasp this; heres a diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
 
 Packaging does not require you to be experts in every point of minutia. It simply demands that you know which questions to ask, who to seek for answers, and what to do with the answers when you get them. (in fact; design in general; while complicated; doesn't ask that you are an expert in everything, but just that you know the experts to ask!)
 
