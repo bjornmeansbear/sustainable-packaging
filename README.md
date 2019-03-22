@@ -2,11 +2,11 @@
 
 Slides and a script for a presentation on Packaging and sustainability
 
-## Slide 1
+## S1: Intro
 
-This is a general introduction to package design, and a little sustainability (and how to apply them to your designing). I'll be speaking pretty generally. We will do an overview of some good packaging related things to think about; and then end on some more sustainability focused ideas -- but still with packaging design as sort of our focus.
+This is a general introduction to package design, and a little sustainability (and how to apply them to your designing). I'll be speaking pretty generally. We will do an overview of some good packaging related things to think about; and then end on some more sustainability focused ideas -- but still with packaging design as sort of our main focus.
 
-So first, some packaging.
+So first, Packaging Basics.
 
 Packaging is about more than just the boxes things come in
 
@@ -18,7 +18,7 @@ Yes, You have to think about the Aesthetics and Style, sure. But you also have t
 
 It's a lot! It helps to try and take a "systems" approach to this. Here is what I mean by systems thinking:
 
-The short of it is that you must Try to see all the potential bits and pieces of a project at the outset and then design accordingly. That's systems -- understanding that everything is connected. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
+The short of it is that you must Try to see all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
 
 ## venn diagram
 
@@ -175,6 +175,65 @@ Image list:
 - <https://www.flickr.com/photos/internetarchivebookimages/14597343818/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14597170107/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14784993825/>
+- <https://www.flickr.com/photos/britishlibrary/11253164106/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16501286379/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16498247059/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14760896836/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14763125214/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14763187124/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14765067972/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14765291422/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14785480363/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14777109552/in/gallery-imaprefix-72157673153753057/>
+- <https://www.flickr.com/photos/north-carolina-state-archives/albums/72157628404581953>
+- <https://www.flickr.com/photos/internetarchivebookimages/16678469192/>
+- <https://www.flickr.com/photos/internetarchivebookimages/19988451584/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14768909824/>
+- <https://www.flickr.com/photos/britishlibrary/11062113606/>
+- <https://www.flickr.com/photos/library_of_congress/3239319120/>
+- <https://www.flickr.com/photos/britishlibrary/11218531314/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14783980505/in/photostream/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14789829573/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14586392410/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14783792215/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14784121342/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14589828570/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14589589028/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14587131649/>
+- <https://www.flickr.com/photos/internetarchivebookimages/20556589498/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14773442902/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16496713668/>
+- <https://www.flickr.com/photos/nasacommons/5553432911/>
+- <https://www.flickr.com/photos/bibliothequedetoulouse/2652995348/>
+- <https://www.flickr.com/photos/library_of_congress/3294667187/>
+- <https://www.flickr.com/photos/internetarchivebookimages/20537213319/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14761631294/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14596442390/>
+- <https://www.flickr.com/photos/britishlibrary/11285490593/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14563092749/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14803808693/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16671441212/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16486565220/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14780182521/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16485690810/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14597364559/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14782740642/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14779923851/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14781006534/>
+- <https://www.flickr.com/photos/internetarchivebookimages/20799193125/>
+- <https://www.flickr.com/photos/internetarchivebookimages/20179514983/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14597930917/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16487042089/>
+- <https://www.flickr.com/photos/internetarchivebookimages/20743570481/>
+- <https://www.flickr.com/photos/internetarchivebookimages/16698538161/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14744471416/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14763941095/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14761159432/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14744404456/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14783361945/>
+- <https://www.flickr.com/photos/britishlibrary/16402977688/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14597012679/>
+- <https://www.flickr.com/photos/internetarchivebookimages/14568907840/>
 
 Color Palette:
 
