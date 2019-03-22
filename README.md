@@ -20,6 +20,8 @@ It's a lot! It helps to try and take a "systems" approach to this. Here is what 
 
 The short of it is that you must Try to see all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
 
+This systems stuff is important! Sustainability -- really understanding sustainability -- involves grasping that...
+
 ## venn diagram
 
 If you're trying to grasp this; heres a diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
@@ -36,13 +38,25 @@ Show a primary/convenience image? something else comparative?
 
 Primary packaging is the material closest to the product
 
+Aspirin bottle; soda can; iphone box...
+
+It is what you normally think of when you think about desinging packaging.
+
+Utility and Appearance!
+
 70% of purchasing decisions are made at the store. This is why packaging is an important task.
+
+## secondary Packaging
+
+This is packaging for shipping and distribution.
 
 ## Examples
 
 Here are a small handful of examples.
 
 (show many samples; probably need more; and should try to find the urls they came from? [maybe I can setup an are.na collection to find some sources])
+
+make a list of links and references and citations...
 
 ## Packaging/Branding
 
