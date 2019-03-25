@@ -70,8 +70,6 @@ What is the potato packaging doing there? > shows the age of the thing inside; p
 
 What about the logitech stuff? > if you are selling online, maybe the phsyical packaging doesn't ahve to do all these things anymore -- it might need to protect for shipping, but not for theft from a store; or inform or sell as the website might be doing the informing or selling now... is the primary package the website then???
 
-(I need a transition here)
-
 ## Barrier?
 
 When you start trying to protect and inform and sell tooooo much; the external wrappings on a thing might become a barrier. Packaging is a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
@@ -82,7 +80,7 @@ Yep, Systems again? Everything is connected!
 
 Design of the package as a system occurs when the perspectives of others are included and the life-cycle is considered. so, if you are thinking about packaging; try to keep in mind that what you are really desiging are processes. Design the systems. Don't just decorate the product -- that is the least important part.
 
-Now, Packging is the backbone of today's free market system. Container shipping? store shelf selling? that's how most things work still… but it doesn't have to be the only way.
+Now, Packaging is the backbone of today's free market system. Container shipping? store shelf selling? that's how most things work still… but it doesn't have to be the only way.
 
 Packaging Design is a complex balance of economy and ecology; between user and producer; between profit and benefit; between promise and expectation...
 
@@ -100,10 +98,6 @@ Packaging and sytems to me are just part of the everything is connected nature o
 - Tomorrow machine?
 - Bananas?
 
-## Is a package even necessary?
-
-Don't forget to ask the real important question -- do we even need to do this project? Do we need to design and sell this at all? what else can we design so as to stop have to package or produce these things? what other ways can this be packaged!!!???
-
 ## Biomicmry?
 
 So, if a package is supposed to protect, inform, and sell -- does nature do this already with its items? Take a banana: a banana comes packed in large bundles. Each is individually wrapped/protected. They are all signs for themselves -- a banana through color and shape and smell and taste and feeling  tells you what it is; and the package is usually frustration free; its then fully a biological nutrient afterward... waste = food... how can all of our other designs and processes take their inspiration from ideas like this? what other objects can we see out in the world that protect and inform and sell utilizing little to no resources? being bioogically inert? being restorative (meaning they give back; add back value externally) rather than just consumptive?
@@ -114,10 +108,13 @@ banana:
 - <https://www.flickr.com/photos/internetarchivebookimages/14752912914/>
 - <https://www.flickr.com/photos/internetarchivebookimages/14784251202/>
 
-Any other examples like that???
+## Is a package even necessary?
 
-What's my conclusion? Is there anything else sustainabiltiy or packagin related?
+Don't forget to ask the real important question -- do we even need to do this project? Do we need to design and sell this at all? what else can we design so as to stop have to package or produce these things? what other ways can this be packaged!!!???
 
+## Concluding thoughts?
+
+I was a little all over the place; but thanks for listening. 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
 Image list:
