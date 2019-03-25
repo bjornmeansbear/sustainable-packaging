@@ -6,27 +6,23 @@ Slides and a script for a presentation on Packaging and sustainability
 
 This is a general introduction to package design, and a little sustainability (and how to apply them to your designing). I'll be speaking pretty generally. We will do an overview of some good packaging related things to think about; and then end on some more sustainability focused ideas -- but still with packaging design as sort of our main focus.
 
-So first, Packaging Basics.
+So first, Packaging Basics. Packaging is about more than just the boxes things come in and more than putting pretty labels on things.
 
-Packaging is about more than just the boxes things come in
+You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this; etc. Woah. 
 
-and Packaging is about more than putting pretty labels on things.
+This makes packaging design a complex, multi-faceted enterprise. I mean, yeah, it's a lot! 
 
-Yes, You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this; etc. Woah.
+To get a better mental grasp of this, it helps to try and take a "systems" approach to this. Here is what I mean by systems thinking: you must try to see (and find)  all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. 
 
-## This makes packaging design a complex, multi-faceted enterprise.
+You want to create a really far out boundary to look for connections and consequnces and synergies, etc. within.
 
-It's a lot! It helps to try and take a "systems" approach to this. Here is what I mean by systems thinking:
+"If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
 
-The short of it is that you must Try to see all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
+This systems stuff is important! Both packaging and Sustainability -- really understanding sustainability -- involves grasping that too... Everything is connected! Everything is a system!
 
-This systems stuff is important! Sustainability -- really understanding sustainability -- involves grasping that...
+To help to grasp this; heres a diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
 
-## venn diagram
-
-If you're trying to grasp this; heres a diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
-
-Packaging does not require you to be experts in every point of minutia. It simply demands that you know which questions to ask, who to seek for answers, and what to do with the answers when you get them. (in fact; design in general; while complicated; doesn't ask that you are an expert in everything, but just that you know the experts to ask!)
+Packaging does not require you to be experts in every point of minutia for all of these subjects and areas and fields. It does demand that you know which questions to ask, who to seek for answers, and what to do with the answers when you get them. (in fact; design in general; while complicated; doesn't ask that you are an expert in everything, but just that you know the experts to ask! printers, web developers, politicians, nuclear scientists, authors, whatever).
 
 ## 1 - what are we talking about when we talk about packaging design?
 
@@ -34,87 +30,79 @@ There is retail packaging; wholesale packaging; primary packaging; secondary pac
 
 Show a primary/convenience image? something else comparative?
 
-## Primary Packaging
+When we normally talk about packaging design though, what we usually mean is Primary Packaging. Primary packaging is the material closest to the product
 
-Primary packaging is the material closest to the product
+Aspirin bottle; soda can; iphone box... It is what you normally think of when you think about desinging packaging.
 
-Aspirin bottle; soda can; iphone box...
+Utility and Appearance! This is where we want to spend our time -- flashy cool obvious "packaged" things. This is where you get caught up and design a package that's too big or too expensive or whatever...
 
-It is what you normally think of when you think about desinging packaging.
+(macaron packaging anecdote?)
 
-Utility and Appearance!
+70% of purchasing decisions are made at the store. This is why primary packaging is an important task. The "sell" part that we'll get to in a bit?
 
-70% of purchasing decisions are made at the store. This is why packaging is an important task.
+Sometimes all that the product is IS the package: pet rock; fancy foods? something like a Tesla?
 
 ## secondary Packaging
 
-This is packaging for shipping and distribution.
+This is packaging for shipping and distribution. This isn't glamourous, but it is where the most important decisions get made actually! Shipping containers; how much cardboard boxing it used; how something fits on a palette or fuel for flying it around or whatever? (skrinkwrap a cucumber? ikea objects?)
 
-## Examples
-
-Here are a small handful of examples.
-
-(show many samples; probably need more; and should try to find the urls they came from? [maybe I can setup an are.na collection to find some sources])
-
-make a list of links and references and citations...
+## Examples > do a better job of just scattering these throughout? maybe list a few after protect; inform; sell instead of just randomly here? (show many samples; probably need more; and should try to find the urls they came from? [maybe I can setup an are.na collection to find some sources]) make a list of links and references and citations...
 
 ## Packaging/Branding
 
-A little side note; as you can see from a lot of these examples, packaging decisions are often related to branding decisions. If you are a progressive brand; or you are an innovative brand; you might want to find a way to do progressive or innovative packaging! And coming up with a specific way to package a more or less mundane product can be an important part of the brand moving forward. (Bon Ami labels? IKEA? Tiffany's?)
+As you can see from a lot of these examples, packaging decisions are often related to branding decisions. If you are a progressive brand; or you are an innovative brand; you might want to find a way to do progressive or innovative packaging! And coming up with a specific way to package a more or less mundane product can be an important part of the brand moving forward. (Bon Ami labels? IKEA? Tiffany's?)
 
 ## II - Packaging's Goals
 
-What are the main aims of Packaging?
+What are the main aims of Primary Packaging?
 
 Protect; Inform; Sell.
 
 ## Protect
 
-Protecting both the product itself; but also the consumer. A package should help stop theft, tampering with a product, impact, shock, crushing... it might keep something free of pathogens and dirt and grime; it might just keep it dry or whatever (protection from the environment)... Basically its the clothes or armor around the thing you actually want the consumer to get. whatever form that takes (side note: you could also think about things like DRM as forms of packaging "protection" -- but in that case they are protecting the publisher; not the consumer.)
+Protecting both the product itself; but also the consumer. A package should help stop theft, tampering with a product, impact, shock, crushing... it might keep something free of pathogens and dirt and grime; it might just keep it dry or whatever (protection from the environment)... Basically its the clothes or armor around the thing you actually want the consumer to get. whatever form that takes (side note: you could also think about things like DRM as forms of packaging "protection" -- but in that case they are protecting the publisher; not the consumer.) Sometimes an item has a package just for this reason (small things in big boxes makes them harder to steal)
 
 ## Inform
 
-A package should also inform about the product itself, about the brand/company at large, perhaps about the greater group of objects this thing belongs in/with, maybe other general concerns -- danger/health/safety/etc.
+A package should also inform about the product itself, about the brand/company at large, perhaps about the greater group of objects this thing belongs in/with, maybe other general concerns -- danger/health/safety/etc. You get into things like Nutrition labels; etc. So this part of a package design might have a lot of externals that affect it depending on the genre or space the product fits into/is sold in...
 
 ## Sell
 
 A package is a billboard for what is inside. It is partially meant to entice and convince a person to buy it over the other things around it. It should sell the interior contents; it should inspire brand loyalty;
 
-What is the potato packaging doing there?
+Selling things leads to some interesting packaging choices: CDs used to come in these tall 12in sleeves that wasted a lot of material; but meant the CDs could sit in the old Record/LP sized shelves when CDs were new... One solution to help with "selling" caused some real problems with consumers; the late 80s early 90s were sort of a 2nd wave of environmentalism and anti-consumerism; the giant CD boxes caused some controversy... So; everything is connected; decisions that benefit one of these things might affect something else negatively! its always your job to try and see all these externalities and weight them against each other where possible...
 
-What about the logitech stuff?
+What is the potato packaging doing there? > shows the age of the thing inside; protects and informs at the same time? and the ephemerality of the package works!
+
+What about the logitech stuff? > if you are selling online, maybe the phsyical packaging doesn't ahve to do all these things anymore -- it might need to protect for shipping, but not for theft from a store; or inform or sell as the website might be doing the informing or selling now... is the primary package the website then???
+
+(I need a transition here)
 
 ## Barrier?
 
 Packaging can be a bridge or a barrier to consumers
 
-Packaging is a barrier ... a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
+When you start trying to protect and inform and sell tooooo much; the external wrappings on a thing might become a barrier. Packaging is a barrier ... a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
 
 If the externalities change, so must the packaging.
 
-Systems again?
+Systems again? Everything is connected!
 
 Design of the package as a system occurs when the perspectives of others are included and the life-cycle is considered
 
 Design the process. Design the system. Don't just decorate the product
 
-## III - Packaging Philosophy
-
-The nested circles thing?
-
-Form, content, context???
-
-Packging is the backbone of today's free market system
+Packging is the backbone of today's free market system. Container shipping? store shelf selling? that's how most things work still...
 
 Packaging Design is a complex balance of economy and ecology; between user and producer; between profit and benefit; between promise and expectation...
 
 Everything is connected
 
-SYSTEMS!
-
-## IV Sustainability?
+## Sustainability?
 
 We've gotten to a lot of packaging related thoughts; and hit on this systems thinking thing a few times now... my main interest is in sustainability. And what I mean by that is design that aids in the welfare of all life. So, if you care about reducing impact; on reusing and recycling; on generally regenerating life instead of eradicating it; you might think a but differently about packaging.
+
+Packaging and sytems to me are just part of the everything is connected nature of sustainability. Of course you need to think about how an item is protected and sold if you care about sustaianability. however, you might have different metrics or frames of reference or analogies...
 
 ## The most sustainable package is no package...
 
@@ -124,11 +112,11 @@ We've gotten to a lot of packaging related thoughts; and hit on this systems thi
 
 ## Is a package even necessary?
 
-Don't forget to ask the real important question -- do we even need to do this project?
+Don't forget to ask the real important question -- do we even need to do this project? Do we need to design and sell this at all? what else can we design so as to stop have to package or produce these things? what other ways can this be packaged!!!???
 
 ## Biomicmry?
 
-So, if a package is supposed to protect, inform, and sell -- does nature do this already with its items? Take a banana: a banana comes packed in large bundles. Each is individually wrapped/protected. They are all signs for themselves -- a banana through color and shape tells you what it is; and the package is usually frustration free; its then fully a biological nutrient afterward... waste = food...
+So, if a package is supposed to protect, inform, and sell -- does nature do this already with its items? Take a banana: a banana comes packed in large bundles. Each is individually wrapped/protected. They are all signs for themselves -- a banana through color and shape and smell and taste and feeling  tells you what it is; and the package is usually frustration free; its then fully a biological nutrient afterward... waste = food... how can all of our other designs and processes take their inspiration from ideas like this? what other objects can we see out in the world that protect and inform and sell utilizing little to no resources? being bioogically inert? being restorative (meaning they give back; add back value externally) rather than just consumptive?
 
 banana:
 
@@ -137,6 +125,8 @@ banana:
 - <https://www.flickr.com/photos/internetarchivebookimages/14784251202/>
 
 Any other examples like that???
+
+What's my conclusion? Is there anything else sustainabiltiy or packagin related?
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
