@@ -62,9 +62,9 @@ A package should also inform about the product itself, about the brand/company a
 
 ## Sell
 
-A package is a billboard for what is inside. It is partially meant to entice and convince a person to buy it over the other things around it. It should sell the interior contents; it should inspire brand loyalty;
+A package is a billboard for what is inside. It is partially meant to entice and convince a person to buy it over the other things around it. It should sell the interior contents; it should inspire brand loyalty; It should show the objects best features! Things have to stand out on a shelf…
 
-Selling things leads to some interesting packaging choices: CDs used to come in these tall 12in sleeves that wasted a lot of material; but meant the CDs could sit in the old Record/LP sized shelves when CDs were new... One solution to help with "selling" caused some real problems with consumers; the late 80s early 90s were sort of a 2nd wave of environmentalism and anti-consumerism; the giant CD boxes caused some controversy... So; everything is connected; decisions that benefit one of these things might affect something else negatively! its always your job to try and see all these externalities and weight them against each other where possible...
+Selling things leads to some interesting packaging choices: CDs used to come in these tall 12in sleeves that wasted a lot of material; but meant the CDs could sit in the old Record/LP sized shelves when CDs were new... One solution to help with "selling" caused some real problems with consumers; the giant CD boxes caused some controversy... So; everything is connected; decisions that benefit one of these things might affect something else negatively! its always your job to try and see all these externalities and weight them against each other where possible...
 
 What is the potato packaging doing there? > shows the age of the thing inside; protects and informs at the same time? and the ephemerality of the package works!
 
@@ -114,6 +114,7 @@ Don't forget to ask the real important question -- do we even need to do this pr
 ## Concluding thoughts?
 
 I was a little all over the place; but thanks for listening. 
+
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
 Image list:
