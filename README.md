@@ -4,7 +4,7 @@ Slides and a script for a presentation on Packaging and sustainability
 
 ## Intro
 
-This is a general introduction to package design, and a little sustainability (and how to apply them to your designing). I'll be speaking pretty generally. We will do an overview of some good packaging related things to think about; and then end on some more sustainability focused ideas -- but still with packaging design as sort of our main focus.
+This is a general introduction to package design, and a little sustainability (and how to apply them to your designing). I'll be speaking pretty generally. And I want to be brief if possible. We will do an overview of some good packaging related things to think about; and then end on some more sustainability focused ideas -- but still with packaging design as sort of our main focus.
 
 Packaging is about more than just the boxes things come in and more than putting pretty labels on things.
 
@@ -16,7 +16,7 @@ So, what package designing "is" is the overlap of all these different things -- 
 
 To get a better mental grasp of this, it helps to try and take a "systems" approach to this. Here is what I mean by systems thinking: you must try to see (and find)  all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. 
 
-You want to create a really far out boundary to look for connections and consequnces and synergies, etc. within. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
+You want to create a really far out boundary to look for connections and consequnces and synergies, etc. within…
 
 This systems stuff is important! Both packaging and Sustainability -- really understanding sustainability -- involves grasping that too... Everything is connected! Everything is a system!
 
