@@ -8,21 +8,19 @@ This is a general introduction to package design, and a little sustainability (a
 
 So first, Packaging Basics. Packaging is about more than just the boxes things come in and more than putting pretty labels on things.
 
-You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this; etc. Woah. 
+You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this? what is the experience of finding and buying and opening this thing? etc. Woah. 
 
 This makes packaging design a complex, multi-faceted enterprise. I mean, yeah, it's a lot! 
 
-To help to grasp this; heres a diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
+So, what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
 
 To get a better mental grasp of this, it helps to try and take a "systems" approach to this. Here is what I mean by systems thinking: you must try to see (and find)  all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. 
 
-You want to create a really far out boundary to look for connections and consequnces and synergies, etc. within.
-
-"If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
+You want to create a really far out boundary to look for connections and consequnces and synergies, etc. within. "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
 
 This systems stuff is important! Both packaging and Sustainability -- really understanding sustainability -- involves grasping that too... Everything is connected! Everything is a system!
 
-Packaging does not require you to be experts in every point of minutia for all of these subjects and areas and fields. It does demand that you know which questions to ask, who to seek for answers, and what to do with the answers when you get them. (in fact; design in general; while complicated; doesn't ask that you are an expert in everything, but just that you know the experts to ask! printers, web developers, politicians, nuclear scientists, authors, whatever).
+Packaging does not require you to be experts in every point of minutia for all of these subjects and areas and fields. It does demand that you know which questions to ask, who to seek for answers, and what to do with the answers when you get them. (in fact; design in general; while complicated; doesn't ask that you are an expert in everything, but just that you know the experts to ask! printers, web developers, politicians, nuclear scientists, authors, social activists, psychologists, whatever).
 
 ## 1 - what are we talking about when we talk about packaging design?
 
