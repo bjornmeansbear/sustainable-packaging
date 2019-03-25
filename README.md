@@ -46,19 +46,15 @@ This is packaging for shipping and distribution. This isn't glamourous, but it i
 
 ## Examples > do a better job of just scattering these throughout? maybe list a few after protect; inform; sell instead of just randomly here? (show many samples; probably need more; and should try to find the urls they came from? [maybe I can setup an are.na collection to find some sources]) make a list of links and references and citations...
 
-## Packaging/Branding
-
 As you can see from a lot of these examples, packaging decisions are often related to branding decisions. If you are a progressive brand; or you are an innovative brand; you might want to find a way to do progressive or innovative packaging! And coming up with a specific way to package a more or less mundane product can be an important part of the brand moving forward. (Bon Ami labels? IKEA? Tiffany's?)
 
-## II - Packaging's Goals
+## Packaging's Goals
 
-What are the main aims of Primary Packaging?
-
-Protect; Inform; Sell.
+What are the main aims of Primary Packaging? To Protect; To Inform; & To Sell.
 
 ## Protect
 
-Protecting both the product itself; but also the consumer. A package should help stop theft, tampering with a product, impact, shock, crushing... it might keep something free of pathogens and dirt and grime; it might just keep it dry or whatever (protection from the environment)... Basically its the clothes or armor around the thing you actually want the consumer to get. whatever form that takes (side note: you could also think about things like DRM as forms of packaging "protection" -- but in that case they are protecting the publisher; not the consumer.) Sometimes an item has a package just for this reason (small things in big boxes makes them harder to steal)
+Protecting the product itself; and also the consumer. A package should help stop theft, tampering with a product, impact, shock, crushing... it might keep something free of pathogens and dirt and grime; it might just keep it dry or whatever (protection from the environment)... Basically its the clothes or armor around the thing you actually want the consumer to get. whatever form that takes (side note: you could also think about things like DRM as forms of packaging "protection" -- but in that case they are protecting the publisher; not the consumer.) Sometimes an item has a package just for this reason (small things in big boxes makes them harder to steal)
 
 ## Inform
 
