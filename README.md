@@ -73,7 +73,7 @@ What about the logitech stuff? > if you are selling online, maybe the phsyical p
 When you start trying to protect and inform and sell tooooo much; the external wrappings on a thing might become a barrier. Packaging is a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
 
 If the externalities change, so must the packaging.
-
+23
 Yep, Systems again? Everything is connected!
 
 Design of the package as a system occurs when the perspectives of others are included and the life-cycle is considered. so, if you are thinking about packaging; try to keep in mind that what you are really desiging are processes. Design the systems. Don't just decorate the product -- that is the least important part.
