@@ -26,8 +26,6 @@ Packaging does not require you to be experts in every point of minutia for all o
 
 There is retail packaging; wholesale packaging; primary packaging; secondary packaging; tertiary packaging; plastic; paper; sterile; minimal; maximal; excessive; functional; ceremonial; carefree; frustrating; etc. The list goes on.
 
-Show a primary/convenience image? something else comparative?
-
 When we normally talk about packaging design though, what we usually mean is Primary Packaging. Primary packaging is the material closest to the product
 
 Aspirin bottle; soda can; iphone box... It is what you normally think of when you think about desinging packaging.
@@ -113,7 +111,7 @@ Don't forget to ask the real important question -- do we even need to do this pr
 
 ## Concluding thoughts?
 
-I was a little all over the place; but thanks for listening. 
+I was a little all over the place; but thanks for listening. Hopefully I gave you some ideas; I'm happy to try and answer some questions?
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
