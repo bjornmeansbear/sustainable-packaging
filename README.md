@@ -34,6 +34,8 @@ Aspirin bottle; soda can; iphone box... It is what you normally think of when yo
 
 Utility and Appearance! This is where we want to spend our time -- flashy cool obvious "packaged" things. This is where you get caught up and design a package that's too big or too expensive or whatever...
 
+Show some more superficially fancy items?
+
 (macaron packaging anecdote?)
 
 70% of purchasing decisions are made at the store. This is why primary packaging is an important task. The "sell" part that we'll get to in a bit?
@@ -44,9 +46,7 @@ Sometimes all that the product is IS the package: pet rock; fancy foods? somethi
 
 This is packaging for shipping and distribution. This isn't glamourous, but it is where the most important decisions get made actually! Shipping containers; how much cardboard boxing it used; how something fits on a palette or fuel for flying it around or whatever? (skrinkwrap a cucumber? ikea objects?)
 
-## Examples > do a better job of just scattering these throughout? maybe list a few after protect; inform; sell instead of just randomly here? (show many samples; probably need more; and should try to find the urls they came from? [maybe I can setup an are.na collection to find some sources]) make a list of links and references and citations...
-
-As you can see from a lot of these examples, packaging decisions are often related to branding decisions. If you are a progressive brand; or you are an innovative brand; you might want to find a way to do progressive or innovative packaging! And coming up with a specific way to package a more or less mundane product can be an important part of the brand moving forward. (Bon Ami labels? IKEA? Tiffany's?)
+Packaging decisions are often related to branding decisions. If you are a progressive brand; or you are an innovative brand; you might want to find a way to do progressive or innovative packaging! And coming up with a specific way to package a more or less mundane product can be an important part of the brand moving forward. (Bon Ami labels? IKEA? Tiffany's?)
 
 ## Packaging's Goals
 
@@ -74,19 +74,15 @@ What about the logitech stuff? > if you are selling online, maybe the phsyical p
 
 ## Barrier?
 
-Packaging can be a bridge or a barrier to consumers
-
-When you start trying to protect and inform and sell tooooo much; the external wrappings on a thing might become a barrier. Packaging is a barrier ... a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
+When you start trying to protect and inform and sell tooooo much; the external wrappings on a thing might become a barrier. Packaging is a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
 
 If the externalities change, so must the packaging.
 
-Systems again? Everything is connected!
+Yep, Systems again? Everything is connected!
 
-Design of the package as a system occurs when the perspectives of others are included and the life-cycle is considered
+Design of the package as a system occurs when the perspectives of others are included and the life-cycle is considered. so, if you are thinking about packaging; try to keep in mind that what you are really desiging are processes. Design the systems. Don't just decorate the product -- that is the least important part.
 
-Design the process. Design the system. Don't just decorate the product
-
-Packging is the backbone of today's free market system. Container shipping? store shelf selling? that's how most things work still...
+Now, Packging is the backbone of today's free market system. Container shipping? store shelf selling? that's how most things work still… but it doesn't have to be the only way.
 
 Packaging Design is a complex balance of economy and ecology; between user and producer; between profit and benefit; between promise and expectation...
 
@@ -94,7 +90,7 @@ Everything is connected
 
 ## Sustainability?
 
-We've gotten to a lot of packaging related thoughts; and hit on this systems thinking thing a few times now... my main interest is in sustainability. And what I mean by that is design that aids in the welfare of all life. So, if you care about reducing impact; on reusing and recycling; on generally regenerating life instead of eradicating it; you might think a but differently about packaging.
+We've gotten to a lot of packaging related thoughts; and hit on this systems thinking thing a few times now... my main interest is in sustainability. And what I mean by that is design that aids in the welfare of all life. So, if you care about reducing impact; on reusing and recycling; on generally regenerating life instead of eradicating it; you might think a but differently about packaging. 
 
 Packaging and sytems to me are just part of the everything is connected nature of sustainability. Of course you need to think about how an item is protected and sold if you care about sustaianability. however, you might have different metrics or frames of reference or analogies...
 
@@ -122,15 +118,7 @@ Any other examples like that???
 
 What's my conclusion? Is there anything else sustainabiltiy or packagin related?
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
-
-Basic Packaging?
-
-Basic Sustainability?
-
-What else?
-
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
 Image list:
 
