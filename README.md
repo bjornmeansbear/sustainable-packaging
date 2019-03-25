@@ -2,7 +2,7 @@
 
 Slides and a script for a presentation on Packaging and sustainability
 
-## S1: Intro
+## Intro
 
 This is a general introduction to package design, and a little sustainability (and how to apply them to your designing). I'll be speaking pretty generally. We will do an overview of some good packaging related things to think about; and then end on some more sustainability focused ideas -- but still with packaging design as sort of our main focus.
 
