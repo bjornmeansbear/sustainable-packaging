@@ -12,6 +12,8 @@ You have to think about the Aesthetics and Style, sure. But you also have to thi
 
 This makes packaging design a complex, multi-faceted enterprise. I mean, yeah, it's a lot! 
 
+To help to grasp this; heres a diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
+
 To get a better mental grasp of this, it helps to try and take a "systems" approach to this. Here is what I mean by systems thinking: you must try to see (and find)  all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. 
 
 You want to create a really far out boundary to look for connections and consequnces and synergies, etc. within.
@@ -19,8 +21,6 @@ You want to create a really far out boundary to look for connections and consequ
 "If you want to bake an apple pie from scratch you must first invent the universe..." -- carl sagan.
 
 This systems stuff is important! Both packaging and Sustainability -- really understanding sustainability -- involves grasping that too... Everything is connected! Everything is a system!
-
-To help to grasp this; heres a diagram: what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
 
 Packaging does not require you to be experts in every point of minutia for all of these subjects and areas and fields. It does demand that you know which questions to ask, who to seek for answers, and what to do with the answers when you get them. (in fact; design in general; while complicated; doesn't ask that you are an expert in everything, but just that you know the experts to ask! printers, web developers, politicians, nuclear scientists, authors, whatever).
 
