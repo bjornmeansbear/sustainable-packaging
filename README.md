@@ -8,15 +8,15 @@ This is a general introduction to package design, and a little sustainability (a
 
 Packaging is about more than just the boxes things come in and more than putting pretty labels on things.
 
-You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this? what is the experience of finding and buying and opening this thing? etc. Woah. 
+You have to think about the Aesthetics and Style, sure. But you also have to think about the materials involved; how this thing is sold; who is it for; why is it necessary; what is it really? and then you have to think about logistics: how does it get shipped or transported or distributed/delivered? Is it sold in a store? online? How do people use and open this? what is the experience of finding and buying and opening this thing? etc. Woah.
 
-This makes packaging design a complex, multi-faceted enterprise. I mean, yeah, it's a lot! 
+This makes packaging design a complex, multi-faceted enterprise. I mean, yeah, it's a lot!
 
 So, what package designing "is" is the overlap of all these different things -- you take them into account; Packaging design; or at least good (and sustainable) packaging design is where they all meet...
 
-To get a better mental grasp of this, it helps to try and take a "systems" approach to this. Here is what I mean by systems thinking: you must try to see (and find)  all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected. 
+To get a better mental grasp of this, it helps to try and take a "systems" approach to this. Here is what I mean by systems thinking: you must try to see (and find) all the potential bits and pieces of a project at the outset and then design accordingly. That's more or less it -- understanding that everything is connected.
 
-You want to create a really far out boundary to look for connections and consequnces and synergies, etc. within…
+You want to create a really far out boundary to look for connections and consequences and synergies, etc. within...
 
 This systems stuff is important! Both packaging and Sustainability -- really understanding sustainability -- involves grasping that too... Everything is connected! Everything is a system!
 
@@ -60,7 +60,7 @@ A package should also inform about the product itself, about the brand/company a
 
 ## Sell
 
-A package is a billboard for what is inside. It is partially meant to entice and convince a person to buy it over the other things around it. It should sell the interior contents; it should inspire brand loyalty; It should show the objects best features! Things have to stand out on a shelf…
+A package is a billboard for what is inside. It is partially meant to entice and convince a person to buy it over the other things around it. It should sell the interior contents; it should inspire brand loyalty; It should show the objects best features! Things have to stand out on a shelf...
 
 Selling things leads to some interesting packaging choices: CDs used to come in these tall 12in sleeves that wasted a lot of material; but meant the CDs could sit in the old Record/LP sized shelves when CDs were new... One solution to help with "selling" caused some real problems with consumers; the giant CD boxes caused some controversy... So; everything is connected; decisions that benefit one of these things might affect something else negatively! its always your job to try and see all these externalities and weight them against each other where possible...
 
@@ -72,13 +72,11 @@ What about the logitech stuff? > if you are selling online, maybe the phsyical p
 
 When you start trying to protect and inform and sell tooooo much; the external wrappings on a thing might become a barrier. Packaging is a boundary between the product and externalities. Regulatory, workplace, competitive, marketplace, consumer, cultural, physical, economic, biosphere... they cover the gamut of protection issues, information issues, and commercial issues...
 
-If the externalities change, so must the packaging.
-23
-Yep, Systems again? Everything is connected!
+If the externalities change, so must the packaging. 23 Yep, Systems again? Everything is connected!
 
 Design of the package as a system occurs when the perspectives of others are included and the life-cycle is considered. so, if you are thinking about packaging; try to keep in mind that what you are really desiging are processes. Design the systems. Don't just decorate the product -- that is the least important part.
 
-Now, Packaging is the backbone of today's free market system. Container shipping? store shelf selling? that's how most things work still… but it doesn't have to be the only way.
+Now, Packaging is the backbone of today's free market system. Container shipping? store shelf selling? that's how most things work still... but it doesn't have to be the only way.
 
 Packaging Design is a complex balance of economy and ecology; between user and producer; between profit and benefit; between promise and expectation...
 
@@ -86,7 +84,7 @@ Everything is connected
 
 ## Sustainability?
 
-We've gotten to a lot of packaging related thoughts; and hit on this systems thinking thing a few times now... my main interest is in sustainability. And what I mean by that is design that aids in the welfare of all life. So, if you care about reducing impact; on reusing and recycling; on generally regenerating life instead of eradicating it; you might think a but differently about packaging. 
+We've gotten to a lot of packaging related thoughts; and hit on this systems thinking thing a few times now... my main interest is in sustainability. And what I mean by that is design that aids in the welfare of all life. So, if you care about reducing impact; on reusing and recycling; on generally regenerating life instead of eradicating it; you might think a but differently about packaging.
 
 Packaging and sytems to me are just part of the everything is connected nature of sustainability. Of course you need to think about how an item is protected and sold if you care about sustaianability. however, you might have different metrics or frames of reference or analogies...
 
@@ -97,7 +95,7 @@ Packaging and sytems to me are just part of the everything is connected nature o
 
 ## Biomicmry?
 
-So, if a package is supposed to protect, inform, and sell -- does nature do this already with its items? Take a banana: a banana comes packed in large bundles. Each is individually wrapped/protected. They are all signs for themselves -- a banana through color and shape and smell and taste and feeling  tells you what it is; and the package is usually frustration free; its then fully a biological nutrient afterward... waste = food... how can all of our other designs and processes take their inspiration from ideas like this? what other objects can we see out in the world that protect and inform and sell utilizing little to no resources? being bioogically inert? being restorative (meaning they give back; add back value externally) rather than just consumptive?
+So, if a package is supposed to protect, inform, and sell -- does nature do this already with its items? Take a banana: a banana comes packed in large bundles. Each is individually wrapped/protected. They are all signs for themselves -- a banana through color and shape and smell and taste and feeling tells you what it is; and the package is usually frustration free; its then fully a biological nutrient afterward... waste = food... how can all of our other designs and processes take their inspiration from ideas like this? what other objects can we see out in the world that protect and inform and sell utilizing little to no resources? being bioogically inert? being restorative (meaning they give back; add back value externally) rather than just consumptive?
 
 banana:
 
